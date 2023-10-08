@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'rutbelportfolio'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_181E309484FA40D1A145FA9FD5C62D1D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6CD2EB34FF2143C7B1044CF0EDE98B33 }}
           package: .
